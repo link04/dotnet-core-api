@@ -1,0 +1,22 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:51555",
+      "sslPort": 44355
+    }
+  },
+    "profiles": {
+      "DotnetCoreApi": {
+        "commandName": "Project",
+        "launchBrowser": true,
+        "launchUrl": "api/todoitems",
+        "applicationUrl": "https://localhost:44355",
+        "environmentVariables": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+      }
+    }
+  }
