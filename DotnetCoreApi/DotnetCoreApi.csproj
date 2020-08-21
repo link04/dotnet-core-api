@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>DotnetCoreApi</RootNamespace>
     <RuntimeIdentifiers>win10-x64;win-x64;linux-x64</RuntimeIdentifiers>
+    <UserSecretsId>a32db3ab-65ee-475d-ab83-c0500d2ea8b1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
