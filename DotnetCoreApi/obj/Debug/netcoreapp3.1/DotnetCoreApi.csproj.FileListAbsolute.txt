@@ -308,3 +308,4 @@ C:\Users\LMFAO\Code\dotnet-core-api\DotnetCoreApi\obj\Debug\netcoreapp3.1\static
 C:\Users\LMFAO\Code\dotnet-core-api\DotnetCoreApi\obj\Debug\netcoreapp3.1\DotnetCoreApi.dll
 C:\Users\LMFAO\Code\dotnet-core-api\DotnetCoreApi\obj\Debug\netcoreapp3.1\DotnetCoreApi.pdb
 C:\Users\LMFAO\Code\dotnet-core-api\DotnetCoreApi\obj\Debug\netcoreapp3.1\DotnetCoreApi.genruntimeconfig.cache
+C:\Users\LMFAO\Code\dotnet-core-api\DotnetCoreApi\bin\Debug\netcoreapp3.1\datadog.json

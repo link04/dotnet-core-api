@@ -1,0 +1,6 @@
+{
+  "DD_TRACE_AGENT_URL": "http://localhost:8126",
+  "DD_ENV": "sandbox",
+  "DD_SERVICE": "DotetCoreApi",
+  "DD_VERSION": "3.1.401"
+}
